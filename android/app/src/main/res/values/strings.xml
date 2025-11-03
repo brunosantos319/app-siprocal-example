@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">PHOENIX</string>
+    <string name="register" translatable="false">Estatus</string>
+    <string name="sdk_version" translatable="false">SDK Version</string>
+    <string name="sensitive" translatable="false">Sensitive Data</string>
+    <string name="org" translatable="false">Org Name</string>
+    <string name="typeorg" translatable="false">Type ORG</string>
+    <string name="codecountry" translatable="false">Code Country</string>
+    <string name="sdkinserver" translatable="false">Status SDK in Server</string>
+    <string name="status" translatable="false">Status</string>
+    <string name="client" translatable="false">Client ID</string>
+    <string name="info" translatable="false">Info del Dispositivo</string>
+    <string name="on" translatable="false">ON-SDK</string>
+    <string name="off" translatable="false">OFF-SDK</string>
+    <string name="notification" translatable="false">Notificacion Center</string>
+    <string name="OptIn" translatable="false">OPTIN</string>
+    <string name="Splash" translatable="false"></string>
+
+    <string name="siprocal_welcome_text_wizard">"Welcome to your new device! Discover new apps and engage to make your device experience even better "</string>
+    <string name="siprocal_term_and_condition_wizard">"By clicking in Allow / Continue you agree to the"</string>
+    <string name="siprocal_button_allow_wizard">Allow</string>
+    <string name="siprocal_button_next_wizard">Next</string>
+    <string name="siprocal_button_deny_wizard">Deny</string>
+    <string name="siprocal_disclosure_dialog_title">Data Disclosure</string>
+    <string name="siprocal_disclosure_dialog_message">Apps Installed: %s collects information about installed applications to personalize content and offers for you.</string>
+    <string name="siprocal_tcl">Terms and Conditions</string>
+
+
+    <string name="siprocal_allow_sensitive_data">Allow Sensitive Data?</string>
+    <string name="siprocal_allow_app_history">Allow App History?</string>
+    <string name="siprocal_subscribe_to_ads">Subscribe to Ads?</string>
+    <string name="siprocal_ok_permission">OK</string>
+    <string name="siprocal_cancel_permission">Cancel</string>
+    <string name="siprocal_permissions_request">Permissions Request</string>
+    <string name="siprocal_text_description_sensitive_data_permission">Allow to app collect sensitive data imei, imei2, iccid, path, apphistory, ims.</string>
+    <string name="siprocal_text_description_app_history_permission">Siprocal App collect information about installed applications to personalize content and offers for you.</string>
+    <string name="siprocal_text_description_optin_permission">Would you like to Opt In to our Ad Services.</string>
+
+</resources>

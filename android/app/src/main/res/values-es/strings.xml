@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PHOENIX</string>
+    <string name="siprocal_welcome_text_wizard">¡Bienvenido a tu nuevo dispositivo! Descubre nuevas aplicaciones y participa para mejorar aún más tu experiencia con el dispositivo</string>
+    <string name="siprocal_term_and_condition_wizard">Al hacer clic en Permitir / Continuar aceptas los</string>
+    <string name="siprocal_button_allow_wizard">Permitir</string>
+    <string name="siprocal_button_next_wizard">Siguiente</string>
+    <string name="siprocal_button_deny_wizard">Denegar</string>
+    <string name="siprocal_disclosure_dialog_title">Divulgación de datos</string>
+    <string name="siprocal_disclosure_dialog_message">Aplicaciones instaladas: %s recopila información sobre las aplicaciones instaladas para personalizar el contenido y las ofertas para usted.</string>
+    <string name="siprocal_tcl">Terminos y condiciones</string>
+    <string name="siprocal_allow_sensitive_data">¿Permitir datos confidenciales?</string>
+    <string name="siprocal_allow_app_history">¿Permitir historial de aplicaciones?</string>
+    <string name="siprocal_subscribe_to_ads">¿Suscribirse a los anuncios?</string>
+    <string name="siprocal_ok_permission">DE ACUERDO</string>
+    <string name="siprocal_cancel_permission">CANCELAR</string>
+    <string name="siprocal_permissions_request">Solicitud de permisos</string>
+    <string name="siprocal_text_description_sensitive_data_permission">Permitir que la aplicación recopile datos confidenciales imei, imei2, iccid, path, apphistory, ims.</string>
+    <string name="siprocal_text_description_app_history_permission">La aplicación Siprocal recopila información sobre las aplicaciones instaladas para personalizar el contenido y las ofertas para usted.</string>
+    <string name="siprocal_text_description_optin_permission">¿Le gustaría suscribirse a nuestros servicios de publicidad?</string>
+</resources>

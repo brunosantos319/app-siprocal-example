@@ -1,0 +1,1 @@
+/Users/krivas/Documents/Proyectos/Flutter/test-phoenix-flutter/build/app/intermediates/cxx/Debug/2e3s6x3z/obj/arm64-v8a

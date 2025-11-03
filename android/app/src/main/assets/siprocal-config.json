@@ -1,0 +1,16 @@
+{
+  "organizationType": "static",
+  "organization": "ClimaTempo",
+  "organizationId": "689cf97cd09531002f48ccea",
+  "timerTriggerConfig": 86400,
+  "timerTriggerDormant": 86400,
+  "orgSelection": "",
+  "version": 1,
+  "isSdkBuild": true,
+  "optInType": "I",
+  "fcmProjectId": "iu-android-sdk",
+  "fcmSenderId": "117519441630",
+  "fbRemoteProjectId": "iu-android-sdk",
+  "fbRemoteAPIKey": "AIzaSyAuiuXvkX3hbXTZv1q1KUh3PbvvTT2tb04",
+  "fbRemoteAppId": "1:117519441630:android:7962cb3d01ff3cc2"
+}

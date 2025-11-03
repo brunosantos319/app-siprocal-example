@@ -1,0 +1,2 @@
+/Users/josecarcamo/FlutterProjects/test-phoenix-flutter/android/app/.cxx/RelWithDebInfo/155ow374/x86_64/CMakeFiles/edit_cache.dir
+/Users/josecarcamo/FlutterProjects/test-phoenix-flutter/android/app/.cxx/RelWithDebInfo/155ow374/x86_64/CMakeFiles/rebuild_cache.dir
